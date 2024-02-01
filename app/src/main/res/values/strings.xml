@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GUI Calculator</string>
+    <string name="numText">0</string>
+</resources>
